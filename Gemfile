@@ -51,3 +51,5 @@ gem 'bcrypt-ruby', '~> 3.0.0', :require => 'bcrypt'
 gem 'bcrypt'
 
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+
+gem 'acts_as_votable', '~> 0.10.0'
