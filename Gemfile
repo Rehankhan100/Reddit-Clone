@@ -49,3 +49,5 @@ gem 'devise', '~> 3.5', '>= 3.5.2'
 
 gem 'bcrypt-ruby', '~> 3.0.0', :require => 'bcrypt'
 gem 'bcrypt'
+
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
